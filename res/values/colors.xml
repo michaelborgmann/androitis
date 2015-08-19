@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="gameboy_lightest">#e8fcd7</color>	<!-- #9bbc0f -->
+	<color name="gameboy_lighter">#a5d291</color>	<!-- #8bac0f -->
+	<color name="gameboy_darker">#518d71</color>	<!-- #306230 -->
+	<color name="gameboy_darkest">#123143</color>	<!-- #0f380f -->
+</resources>

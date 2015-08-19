@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Androitis</string>
+    <string name="new_game_label">New Game</string>
+    <string name="about_label">About</string>
+    <string name="quit_label">Quit</string>
+    <string name="about_title">About Androitis</string>
+    <string name="about_text">\
+Androitis is a Tetris clone for Android,
+created by Michael Borgmann.
+
+Tetris is a puzzle video game originally
+designed and programmed by Alexey Pajitnov
+in the Soviet Union, and was released on
+June 6, 1984.
+
+For me, Androitis is just a test game to
+learn about the Android platform.
+
+Copyright © 2012 by michaelborgmann.com 
+	</string>
+	<string name="options_label">Options</string>
+	<string name="options_title">Androitis Options</string>
+	<string name="options_shortcut">o</string>
+	<string name="music_label">Music</string>
+	<string name="music_summary">Turn music on/off</string>
+	<string name="sfx_label">Sound FX</string>
+	<string name="sfx_summary">Turn sound effects on/off</string>
+
+</resources>
